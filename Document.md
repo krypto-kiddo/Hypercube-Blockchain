@@ -10,7 +10,7 @@ Content begins below -->
 can nevertheless be seen and felt”
 Michael Chabon, Summerland
 
-## WHAT IS  A BLOCKCHAIN
+## What is a blockchain
 Well, blockchain is much more than just cryptocurrencies. The system is like a giant computer that is a huge cluster of many small independent nodes that perform calculations. This very thing makes it decentralized, which also means that this network never goes down. You can run operations on this network, for which you have to pay a minimal amount of money as a processing fee, which basically is the gas fee of a network which is mostly used to reward the miners which are nodes on this network. It's actually a story that's a little long, but what we need to focus on is mainly the way the data is stored on this network, and how implementing a hypercube format will affect it's working. 
 
  
